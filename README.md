@@ -7,25 +7,10 @@ This project work will enhance my  Data Analysis program completion with Incubat
 [Project Overview](#project-overview)
 
 --
-This project is geared towards analyzing  the HR performance of Palmoria Group  by exploring Salary review data to uncover insights such as bonus % per employee, rating with the highest salary, product with the highest reviews,the company total potential revenue,percentage discount alloted to different product category as well as top products interms of rating and reviews. The primary objective is to create an interactive Visual dashboard that highlights key findings, enabling data-driven decision-making to improve salary payment strategies. The project involves data exploration, preparation, and analysis using Power BI, with final visualizations.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+This project is geared towards analyzing  the HR performance of Palmoria Group  by exploring Salary review data to uncover insights such as bonus % per employee, rating with the highest salary,and the objective is to uncover gender-related disparities, identify problem areas and recommend actionable insights to ensure equity and compliance with emerging labour regulations.Also,provide insights into the distribution of of annual bonuses and findings will be presented through interactive Charts to support clear communication and enhance decision making by Palmoria Management.The overarching goal is to enable the Company to foster a more inclusive, fair and legally compliant workplace.Therefore, the project involves data exploration, preparation, and analysis using Power BI, with final visualizations.
 
 [Data Sources](#data-sources)
-The primary source of this data is extract the from Palmoria Group HR Analysis pages provided by DSA and this is an open sources data that can freely downloaded without any restriction, online such as kaggle or fred, data.gov as well as any other sources like industry report.
+The primary source of this data is extracted  from Palmoria Group HR Analysis pages provided by DSA and this is an open sources data that can freely downloaded without any restriction, online such as kaggle or fred, data.gov as well as any other sources like industry report.
 
 [Tools Used](#tools-used)
 Power BI; using appropriate charts for Visualisation
@@ -33,10 +18,11 @@ Power BI; using appropriate charts for Visualisation
 --for portfolio building
 
 [Data Cleaning and preparation](#data-cleaning-and-preparation)
-
---Assign generic gender status to those employees who refused to display their gender.
---Remove those employees without salary who are no longer with the Organisation from the rows.
---Replace null in some of the departments.
+The dataset cleaning involves the removal of invalid entries( such as; employees without disclosed gender, null departments and inactive staff without salaries) and analysing the cleaned data to,
+---Determine the gender distribution across departments and regions.
+---Investigate employees' performance ratings by assigning generic gender status.
+---Identify and quantify any gender-based pay gaps, highlighting affected departments and regions.
+---Evaluate compliance with the new regulatory salary threshold of $90,000 for manufacturing staff.
 --Ensure consistency in data formats; such as name,department,bonus %,and new salary.
 --Data Transformation;using Power Query Editor to calculate New fields such as; bonus %,new salary
 --Merging of the Palmoria Bonus Rules and Palmoria Group Employee HR Data.
