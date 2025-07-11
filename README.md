@@ -71,19 +71,23 @@ bonus)
 
 
 ## Data Analysis:
+---
 
 
 
 
 
 ## Data Visualization
+---
 
 
+
+<img width="879" height="490" alt="PALMORIA DASHBOARD ANALYSIS" src="https://github.com/user-attachments/assets/d37ed8b7-6ede-4392-8f0a-e57799861cb3" />
 
 
 
 ## Findings
--
+---
 
 
 
