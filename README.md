@@ -26,10 +26,10 @@ This project work will enhance my  Data Analysis program completion with Incubat
 
 ## Project Overview
 
---This project is geared towards analyzing  the HR performance of Palmoria Group  by exploring Salary review data to uncover insights such as bonus % per employee, rating with the highest salary,and the objective is to uncover gender-related disparities, identify problem areas and recommend actionable insights to ensure equity and compliance with emerging labour regulations.Also,provide insights into the distribution of of annual bonuses and findings will be presented through interactive Charts to support clear communication and enhance decision making by Palmoria Management.The overarching goal is to enable the Company to foster a more inclusive, fair and legally compliant workplace.Therefore, the project involves data exploration, preparation, and analysis using Power BI, with final visualizations.
+--This project is geared towards analyzing  the HR performance of Palmoria Group  by exploring Salary review data to uncover insights such as bonus % per employee, rating with the highest salary,and the objective is to reveal gender-related disparities, identify problem areas and recommend actionable insights to ensure equity and compliance with emerging labour regulations.Also,provide insights into the distribution of of annual bonuses and findings will be presented through interactive Charts to support clear communication and enhance decision making by the- Palmoria Management.The overarching goal is to enable the Company to foster a more inclusive, fair and legally compliant workplace.Therefore, the project involves data exploration, preparation, and analysis using Power BI, with final visualizations.
 
 ## Data Sources:
---The primary source of this data is extra from Amazon product pages provided by DSA and this is an open sources data that can freely downloaded without any restriction, online such as kaggle or fred, data.gov as well as any other sources like industry report.
+--The primary source of this data is extracted from Palmoria HR Employee Data pages provided by DSA and this is an open sources data that can freely downloaded without any     restriction, online from platforms, such as; kaggle or fred, data.gov as well as any other sources like industry report.
 
 ## Tools Used:
  Power BI; using appropriate charts for Visualisation
@@ -44,19 +44,19 @@ The dataset cleaning involves the removal of invalid entries( such as; employees
 ---Investigate employees' performance ratings by assigning generic gender status.
 ---Identify and quantify any gender-based pay gaps, highlighting affected departments and regions.
 ---Evaluate compliance with the new regulatory salary threshold of $90,000 for manufacturing staff.
---Ensure consistency in data formats; such as name,department,bonus %,and new salary.
---Data Transformation;using Power Query Editor to calculate New fields such as; bonus %,new salary
---Merging of the Palmoria Bonus Rules and Palmoria Group Employee HR Data.
+---Ensure consistency in data formats; such as name,department,bonus %,and new salary.
+---Data Transformation;using Power Query Editor to calculate New fields such as; bonus %,new salary
+---Merging of the Palmoria Bonus Rules and Palmoria Group Employee HR Data.
 
   
   ## Exploratory Data Analysis:
 
 - What is the gender distribution in the organization? Distil to regions and 
-departments 
+  departments 
 - Show insights on ratings based on gender 
--  Analyse the company’s salary structure. Identify if there is a gender pay gap. If 
-there is, identify the department and regions that should be the focus of 
-management 
+. Analyse the company’s salary structure. Identify if there is a gender pay gap. If 
+  there is, identify the department and regions that should be the focus of 
+  management. 
 -  A recent regulation was adopted which requires manufacturing companies to pay 
 employees a minimum of $90,000
 * Does Palmoria meet this requirement? 
@@ -66,7 +66,7 @@ etc.?
 * Also visualize this by regions  
 * Calculation of the the amount to be paid as a bonus to individual employees 
 * Calculating the total amount to be paid to individual employees (salary inclusive of 
-bonus) 
+  bonus) 
 * Total amount to be paid out per region and company-wide
 
 
@@ -111,7 +111,6 @@ Accounting and Marketing have the lowest overall departmental salary.
 
 ## Data Visualization
 
-
 -----<img width="737" height="387" alt="PALMORIA  HR VISUAL A" src="https://github.com/user-attachments/assets/29e33c9a-d893-4cf9-baed-90b7f0ce3697" />
 
 ----<img width="734" height="377" alt="PALMORIA VISUAL A" src="https://github.com/user-attachments/assets/a7ce4de8-c81f-4798-a87b-fd1a6d300215" />
@@ -130,8 +129,10 @@ Accounting and Marketing have the lowest overall departmental salary.
 --Some departments, like Accounting and Marketing, pay lower on average, which may affect retention or morale.
 
 
-## Conclusions--There is gender imbalance in both pay and representation, especially in Kaduna and Abuja.
----
+## Conclusions
+----
+--There is gender imbalance in both pay and representation, especially in Kaduna and Abuja.
+
 --Palmoria Group has a concentration of workforce in mid-range salary bands, suggesting limited high-skill or executive roles.
 
 --Departmental salary allocation is uneven, with a few departments receiving a large chunk of the payroll budget.
