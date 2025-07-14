@@ -102,6 +102,15 @@ bonus)
 
 ## Data Visualization
 
+
+<img width="737" height="387" alt="PALMORIA  HR VISUAL A" src="https://github.com/user-attachments/assets/29e33c9a-d893-4cf9-baed-90b7f0ce3697" />
+
+
+
+
+
+
+
 <img width="734" height="377" alt="PALMORIA VISUAL A" src="https://github.com/user-attachments/assets/a7ce4de8-c81f-4798-a87b-fd1a6d300215" />
 
 
