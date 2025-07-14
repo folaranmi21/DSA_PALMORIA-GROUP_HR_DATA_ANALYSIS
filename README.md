@@ -71,41 +71,42 @@ bonus)
 
 
 ## Data Analysis:
----1. Salary by Location and Gender
-Kaduna has the highest male salary (~18M) and a smaller female salary (~1M).
+----
+1. Salary by Location and Gender
+--Kaduna has the highest male salary (~18M) and a smaller female salary (~1M).
 
-Abuja follows with ~11M male and ~1M female salary.
+--Abuja follows with ~11M male and ~1M female salary.
 
-Lagos shows the highest female salary (~8M) and lower male salary (~9M).
+--Lagos shows the highest female salary (~8M) and lower male salary (~9M).
 
-Unknown gender salaries are relatively small across all locations.
+--Unknown gender salaries are relatively small across all locations.
 
 2. Average Salary by Department and Gender
-Across departments, males consistently have higher average salaries than females.
+--Across departments, males consistently have higher average salaries than females.
 
-Legal, Support, and Engineering departments show a wider salary gap.
+--Legal, Support, and Engineering departments show a wider salary gap.
 
-The Accounting department has the lowest average salary for both genders.
+--The Accounting department has the lowest average salary for both genders.
 
-Female salaries peak in Legal and Engineering (~0.21M), but males earn significantly more (~0.24M+).
+--Female salaries peak in Legal and Engineering (~0.21M), but males earn significantly more (~0.24M+).
 
 3. Salary by Gender and Department (Total)
-Top-paying departments overall:
+--Top-paying departments overall:
 
-Training (Male: 3.15M+, Female: 2.63M+)
+--Training (Male: 3.15M+, Female: 2.63M+)
 
-Services, Sales, and R&D follow closely.
+--Services, Sales, and R&D follow closely.
 
 Accounting and Marketing have the lowest overall departmental salary.
 
 4. Salary Band by Region and Employee Count
-Most employees fall within the 30,000 – 50,000 salary band.
+--Most employees fall within the 30,000 – 50,000 salary band.
 
-Lagos has the highest number of employees (337) across all salary bands.
+--Lagos has the highest number of employees (337) across all salary bands.
 
-Kaduna follows with 233, and Abuja has the least (304).
+--Kaduna follows with 233, and Abuja has the least (304).
 
-Very few employees earn 90,000 and above.
+--Very few employees earn 90,000 and above.
 
 
 ## Data Visualization
@@ -118,61 +119,59 @@ Very few employees earn 90,000 and above.
 
 ## Findings
 ---
-Gender Pay Gap exists clearly across all departments and locations, with males earning significantly more.
+--Gender Pay Gap exists clearly across all departments and locations, with males earning significantly more.
 
-Lagos pays more equitably across genders and hosts the most employees.
+--Lagos pays more equitably across genders and hosts the most employees.
 
-High concentration of staff is seen in lower salary bands, indicating a large base of low-to-mid income earners.
+--High concentration of staff is seen in lower salary bands, indicating a large base of low-to-mid income earners.
 
-Legal and Engineering have the highest average salaries across genders.
+--Legal and Engineering have the highest average salaries across genders.
 
-Some departments, like Accounting and Marketing, pay lower on average, which may affect retention or morale.
+--Some departments, like Accounting and Marketing, pay lower on average, which may affect retention or morale.
 
 
-## Conclusions
----There is gender imbalance in both pay and representation, especially in Kaduna and Abuja.
+## Conclusions--There is gender imbalance in both pay and representation, especially in Kaduna and Abuja.
+---
+--Palmoria Group has a concentration of workforce in mid-range salary bands, suggesting limited high-skill or executive roles.
 
-Palmoria Group has a concentration of workforce in mid-range salary bands, suggesting limited high-skill or executive roles.
+--Departmental salary allocation is uneven, with a few departments receiving a large chunk of the payroll budget.
 
-Departmental salary allocation is uneven, with a few departments receiving a large chunk of the payroll budget.
-
-The presence of salaries for “Unknown” gender indicates possible data quality issues in HR records.
+--The presence of salaries for “Unknown” gender indicates possible data quality issues in HR records.
 
 
 ## Recommendations
+-----
+--Conduct a Gender Pay Equity Audit
 
+--Evaluate roles and compensation to address disparities.
 
-Conduct a Gender Pay Equity Audit
+--Implement structured pay grades and transparent salary policies.
 
-Evaluate roles and compensation to address disparities.
+--Review Compensation Structure
 
-Implement structured pay grades and transparent salary policies.
+--Consider raising salaries in underpaid departments like Accounting and Marketing.
 
-Review Compensation Structure
+--Incentivize performance and experience with salary progression paths.
 
-Consider raising salaries in underpaid departments like Accounting and Marketing.
+--Improve HR Data Quality
 
-Incentivize performance and experience with salary progression paths.
+   .Eliminate “Unknown” gender entries with proper data validation.
 
-Improve HR Data Quality
+--Regularly audit employee demographic records.
 
-Eliminate “Unknown” gender entries with proper data validation.
+--Regional Workforce Strategy
 
-Regularly audit employee demographic records.
+   .Investigate why Lagos attracts and retains more employees and apply insights to Abuja and Kaduna.
 
-Regional Workforce Strategy
+--Consider regional salary adjustments based on cost of living.
 
-Investigate why Lagos attracts and retains more employees and apply insights to Abuja and Kaduna.
+--Talent Development Programs
 
-Consider regional salary adjustments based on cost of living.
+    .Invest in training programs for departments with lower pay to enhance skills and possibly justify better wages.
 
-Talent Development Programs
+--Promote Gender Diversity
 
-Invest in training programs for departments with lower pay to enhance skills and possibly justify better wages.
-
-Promote Gender Diversity
-
-Encourage female representation in departments like Engineering, Legal, and Training through inclusive hiring.
+   .Encourage female representation in departments like Engineering, Legal, and Training through inclusive hiring.
 
 
 
