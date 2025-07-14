@@ -77,12 +77,41 @@ bonus)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Data Visualization
----
+
+<img width="734" height="377" alt="PALMORIA VISUAL A" src="https://github.com/user-attachments/assets/a7ce4de8-c81f-4798-a87b-fd1a6d300215" />
 
 
 
-<img width="879" height="490" alt="PALMORIA DASHBOARD ANALYSIS" src="https://github.com/user-attachments/assets/d37ed8b7-6ede-4392-8f0a-e57799861cb3" />
+
+
+
+
+
+
 
 
 
