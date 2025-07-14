@@ -110,10 +110,9 @@ Accounting and Marketing have the lowest overall departmental salary.
 
 
 ## Data Visualization
+---<img width="737" height="387" alt="PALMORIA  HR VISUAL A" src="https://github.com/user-attachments/assets/c7aa265d-d8b8-4aab-928e-be0c9efcfa08" />
 
------<img width="737" height="387" alt="PALMORIA  HR VISUAL A" src="https://github.com/user-attachments/assets/29e33c9a-d893-4cf9-baed-90b7f0ce3697" />
-
-----<img width="734" height="377" alt="PALMORIA VISUAL A" src="https://github.com/user-attachments/assets/a7ce4de8-c81f-4798-a87b-fd1a6d300215" />
+----img width="734" height="377" alt="PALMORIA HR VISUAL B" src="https://github.com/user-attachments/assets/90bda928-491f-4bdd-8a12-d961cccb494b" />
 
 
 ## Findings
