@@ -104,7 +104,7 @@ Accounting and Marketing have the lowest overall departmental salary.
 
 --Lagos has the highest number of employees (337) across all salary bands.
 
---Kaduna follows with 233, and Abuja has the least (304).
+--Abuja follows with 304, and Kaduna has the least (233).
 
 --Very few employees earn 90,000 and above.
 
@@ -165,9 +165,7 @@ Accounting and Marketing have the lowest overall departmental salary.
 
 --Consider regional salary adjustments based on cost of living.
 
---Talent Development Programs
-
-    .Invest in training programs for departments with lower pay to enhance skills and possibly justify better wages.
+--Organise periodic talent Development Programs. 
 
 --Promote Gender Diversity
 
