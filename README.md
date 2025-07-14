@@ -71,70 +71,135 @@ bonus)
 
 
 ## Data Analysis:
----
+---1. Salary by Location and Gender
+Kaduna has the highest male salary (~18M) and a smaller female salary (~1M).
 
+Abuja follows with ~11M male and ~1M female salary.
 
+Lagos shows the highest female salary (~8M) and lower male salary (~9M).
 
+Unknown gender salaries are relatively small across all locations.
 
+2. Average Salary by Department and Gender
+Across departments, males consistently have higher average salaries than females.
 
+Legal, Support, and Engineering departments show a wider salary gap.
 
+The Accounting department has the lowest average salary for both genders.
 
+Female salaries peak in Legal and Engineering (~0.21M), but males earn significantly more (~0.24M+).
 
+3. Salary by Gender and Department (Total)
+Top-paying departments overall:
 
+Training (Male: 3.15M+, Female: 2.63M+)
 
+Services, Sales, and R&D follow closely.
 
+Accounting and Marketing have the lowest overall departmental salary.
 
+4. Salary Band by Region and Employee Count
+Most employees fall within the 30,000 – 50,000 salary band.
 
+Lagos has the highest number of employees (337) across all salary bands.
 
+Kaduna follows with 233, and Abuja has the least (304).
 
-
-
-
-
-
-
-
-
-
-
-
+Very few employees earn 90,000 and above.
 
 
 ## Data Visualization
 
 
-<img width="737" height="387" alt="PALMORIA  HR VISUAL A" src="https://github.com/user-attachments/assets/29e33c9a-d893-4cf9-baed-90b7f0ce3697" />
+-----<img width="737" height="387" alt="PALMORIA  HR VISUAL A" src="https://github.com/user-attachments/assets/29e33c9a-d893-4cf9-baed-90b7f0ce3697" />
 
-
-
-
-
-
-
-<img width="734" height="377" alt="PALMORIA VISUAL A" src="https://github.com/user-attachments/assets/a7ce4de8-c81f-4798-a87b-fd1a6d300215" />
-
-
-
-
-
-
-
-
-
-
+----<img width="734" height="377" alt="PALMORIA VISUAL A" src="https://github.com/user-attachments/assets/a7ce4de8-c81f-4798-a87b-fd1a6d300215" />
 
 
 ## Findings
 ---
+Gender Pay Gap exists clearly across all departments and locations, with males earning significantly more.
 
+Lagos pays more equitably across genders and hosts the most employees.
 
+High concentration of staff is seen in lower salary bands, indicating a large base of low-to-mid income earners.
+
+Legal and Engineering have the highest average salaries across genders.
+
+Some departments, like Accounting and Marketing, pay lower on average, which may affect retention or morale.
 
 
 ## Conclusions
----
+---There is gender imbalance in both pay and representation, especially in Kaduna and Abuja.
+
+Palmoria Group has a concentration of workforce in mid-range salary bands, suggesting limited high-skill or executive roles.
+
+Departmental salary allocation is uneven, with a few departments receiving a large chunk of the payroll budget.
+
+The presence of salaries for “Unknown” gender indicates possible data quality issues in HR records.
 
 
 ## Recommendations
+
+
+Conduct a Gender Pay Equity Audit
+
+Evaluate roles and compensation to address disparities.
+
+Implement structured pay grades and transparent salary policies.
+
+Review Compensation Structure
+
+Consider raising salaries in underpaid departments like Accounting and Marketing.
+
+Incentivize performance and experience with salary progression paths.
+
+Improve HR Data Quality
+
+Eliminate “Unknown” gender entries with proper data validation.
+
+Regularly audit employee demographic records.
+
+Regional Workforce Strategy
+
+Investigate why Lagos attracts and retains more employees and apply insights to Abuja and Kaduna.
+
+Consider regional salary adjustments based on cost of living.
+
+Talent Development Programs
+
+Invest in training programs for departments with lower pay to enhance skills and possibly justify better wages.
+
+Promote Gender Diversity
+
+Encourage female representation in departments like Engineering, Legal, and Training through inclusive hiring.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 
